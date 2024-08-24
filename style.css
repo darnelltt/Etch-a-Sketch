@@ -1,0 +1,40 @@
+body{
+    background-color: purple;
+}
+
+#header{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 20px auto;
+}
+
+#clearButton{
+    margin: 20px auto;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 3px solid blue;
+    padding: 5px 20px;
+
+}
+
+#container{
+    border: 3px solid green;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: white;
+}
+
+.grid{
+    display: inline-block;
+    background-color: yellow;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
